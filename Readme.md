@@ -1,0 +1,1 @@
+Jogo da advinhação de némeros em C++, com três dificuldades selecionáveis.
